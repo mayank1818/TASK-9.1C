@@ -1,0 +1,23 @@
+/* Set a different background color for the body */
+body {
+  background-color: #481779;
+}
+
+/* Apply a different margin to the .page-login class */
+.page-login {
+  margin-top: 30px;
+}
+
+/* Style the .App class with a different width and margin */
+.App {
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #80b087;
+  border: 2px solid #110707;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  text-align: center;
+  font-size: 18px;
+  color: #0a0a0a;
+}
